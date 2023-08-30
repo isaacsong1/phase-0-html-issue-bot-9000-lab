@@ -1,0 +1,13 @@
+{
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingOvertype": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.autoSurround": "never",
+    "javascript.suggest.enabled": false,
+    "typescript.suggest.enabled": false,
+    "html.autoCreateQuotes": false,
+    "javascript.suggest.autoImports": false,
+    "typescript.suggest.autoImports": false,
+    "html.autoClosingTags": false
+}
